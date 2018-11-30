@@ -1,0 +1,536 @@
+ls
+mkdir Repos
+cd Repos
+history
+cat ../.history
+git clone https://github.com/wireservice/csvkit.git
+cd csvkit
+ls
+git log
+cd ..
+cd
+psql -l
+psql
+psql postgres
+pyspark
+R
+rstudio
+sudo chmod -R a+rwx /media/sf_vb_shared
+sudo cp -r /media/sf_vb_shared/Data .
+ls -hl
+sudo chown -R dsc:dsc Data
+du -hs Data
+ls Data
+find DA
+find Data
+df -h
+blueman--ma
+blueman-manager
+gsettings get org.blueman.transfer shared-path\
+\
+
+gsettings get org.blueman\
+\
+
+blueman-services
+cd /usr/local/spark
+cd ..
+ls
+ls /home/dsc/Downloads
+ls
+ll spark
+cd
+cd Downloads
+ls
+ll
+tar zxvf spark-2.2.0-bin-hadoop2.7.tgz
+ls
+rm spark-2.2.0-bin-hadoop2.7.tgz
+sudo mv spark-2.2.0-bin-hadoop2.7 /usr/local
+cd /usr/local
+ls
+rm -rd spark-2.3.0-bin-hadoop2.7
+sudo rm -rf spark-2.3.0-bin-hadoop2.7
+sudo rm spark
+sudo ln -s spark-2.2.0-bin-hadoop2.7 spark
+l
+cd
+pyspark
+rm Untitled.ipynb
+ls
+ls /l
+ls -l
+cd /
+ls
+python
+cd /home
+ls
+cd dsc
+ls
+df -h
+ls
+nano
+ls
+cd Desktop
+ls
+history
+sudo nano ll.txt
+cd ..
+clear
+ls
+ll
+cd Repos
+ls
+cd ..
+cd Repos
+ls
+cd csvkit
+ls
+cd 
+git add
+git config --global user.name "Miguel Angel Comino"
+git config --global user.email "macomino@crcit.es"
+ls
+ll
+ls .g
+ls -l .g
+ls -l .gconf
+ls
+ls .gconf
+ls
+cat .gitconfig
+cd Repos
+ls
+git clone https://github.com/macomino/master-data-science.git
+ls
+cd master-data-science
+ls
+cat README.md
+ls
+nano README.md
+git status
+git add README.md
+git status
+git commit
+git commit -m "Version inicial"
+git push
+git statud
+git status
+git pull
+ por su 
+echo $HOST
+whoami
+echo hola
+printenv
+printenv $HOST
+print $HOST
+print HOST
+print $HOST
+echo "this is\
+long one"
+echo "eee"+3
+echo "World \\
+is min"
+echo \\
+"ee"
+histor
+history
+echo aaa; echo bbb;
+echo aaa \; echo bbb;
+cat /etc/os-release
+cat -n /etc/os-release
+pwd
+clear
+pwd
+ls
+cd anaconda3
+pwd
+cd ..
+clear
+echo $HOME
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccca
+clear
+cd Data
+cd shell
+cat Text_example.txt
+pwd
+cat ~/Data/shell/Text_example.txt
+pwd
+cd ..
+ls
+cd sh
+cd Data
+ls
+cd airline_tickets
+cat ../shell/Text_example.txt
+cd ..
+cd opentraveldata
+ls
+ll
+cat ref_airline_nb_of_flights.csv
+ll
+cat ../shell/Text_example.txt
+cd
+clear
+cd -
+clear
+cd
+cd Repos
+git init testing
+cd testing
+cd .git
+ll
+ls
+cd ..
+ll
+rm -d -r .git
+cd ..
+rm testing
+rm -d testing
+rm --help
+clear
+man rm
+ls -a
+cd
+ls -a
+ls -la
+ls -a
+ls -l
+ls -la
+ls | grep Repos
+ls | grep Rep
+ls | grep Pic
+ls | grep P
+cd Documents/
+ls
+cd ../
+cd ./
+ls -l
+cd anaconda3
+ll
+ls -al
+cd+
+cd
+mkdir one
+cd one
+ls -l
+ls -la
+cd ../
+ls -la
+cd one
+ls
+ll
+ls -la
+ls --help
+cd ..
+rm -d one
+ls -s
+ls
+ls -sX
+cd Videos
+ls
+ls -l
+cd ..
+cd Data
+ls
+cd..
+cd ..
+ls
+ls -s
+ls -t
+mkdir one
+ls
+ls -l
+chmod 777 one
+ls -l
+cd Data/shell
+ls
+ls -l
+chmod u-x, g-rwx, o+r-x Text_example.txt
+chmod u-x,g-rwx,o+r-x Text_example.txt
+ls -l
+cd 
+ls
+rm -d one
+mkdir one
+cd one
+ls
+ls -l
+mkdir -p two/three/four
+ls
+cd two/three
+cd four
+cd ..
+mkdir a b c
+ls
+mkdir --help
+mkdir -v d e
+cler
+clear
+bash
+cd ..
+cd Repos/
+ls
+cd master-data-science/
+ls
+cat README.md 
+exit
+exit
+ggfg
+clear
+cd one
+touch pp.txt
+ls
+cat pp.txt
+nano pp.txt
+cat pp.txt
+ls -l
+touch pp.txt
+ls -l
+touch "fichero 1.txt"
+ls -l
+rm fichero\ 1.txt
+cp pp.txt p2.txt
+ls
+cat p2.txt
+ls
+rm *.txt
+ls
+touch file_1
+cp file_1 file_new
+cp -r a aa
+ls
+cp -r two bb
+cd bb/three
+cd ..
+ls
+cp file_1 file_new two
+cd two
+ls
+cp --help
+clear
+ls
+mv file_1 three
+ls
+cd three
+ls
+cd ..
+cd one
+ls
+mv file_new old_file
+ls
+rm old_file
+rm -rd two
+rm *.*
+clear
+ls
+rm -rd a aa b file_1
+ls
+history
+history --help
+man history
+cd 
+mkdir first_dir
+cp --help
+cd first_dir
+touch text_file.txt
+history -1000
+chmod g+x,o+w text_file.txt
+ls -l
+mkdir sub1 sub2 text_file
+cp text_file.txt sub1
+ls
+cd sub1
+ls
+cd ..
+mv text_file.txt sub2
+cd sub2
+ls
+mv text_file.txt text_file.txt.2
+ls
+cd ..
+cp -rd sub1 sub3
+ls
+cd sub3
+ls
+clear
+ls
+cd ..
+ls
+cd sub1
+ls
+cd ..
+mv sub2/text_file.txt.2 sub2/text_file.txt.backup
+cd sub2
+ls
+cd ..
+mv sub2/text_file.txt.backup ./.text_file.txt.backup
+ls -a
+ls
+rm .rd sub2
+rm -rd sub2
+ls
+cd ..
+cd Shel
+cd ..
+cd 
+ls
+cd Data
+ls
+cd shell
+ls
+less Finn.txt
+cat
+history
+more Finn.txt
+less Finn.txt
+less -N Finn.txt
+ls -l
+man bash
+man cd
+man bash
+sudo apt-get install tree
+tree
+tree | grep Finn
+ll
+alias
+cd
+less .zshrc
+alias gs="git status"
+gs
+ls
+ls -a
+la
+nano .
+nano .zshrc
+gs
+cat .profile
+type --help
+man type
+clear
+type ll
+type cd
+type ls
+which ls
+which python
+sudo wihich python
+sudo which python
+sudo which pip
+ which pip
+wheris less
+whereis less
+echo $PATH
+clear
+whereis less
+cat -n /etc/os-release
+cat .history
+echo "Hellow world"
+ls
+cat derby.log
+echo "Hellow world" > pp.txt
+ls
+cat pp.txt
+ls
+rm pp.txt
+echo "Hellow world" > pp.txt
+echo "Hellow world" >> pp.txt
+cat pp.txt
+echo "Hellow world" >> pp.txt
+cat pp.txt
+wc hello_file
+wc pp.txt
+wc -l pp.txt
+wc pp.txt
+count
+clear
+cat pp.txt 
+cat pp.txt >> pp.txt
+cat pp.txt | wc
+cat pp.txt | wc >> size.txt
+cat size.txt
+ls | wc
+tree | wc
+cd Data/shell
+ls
+head Finn.txt
+tail Finn.txt
+head -n Finn.txt
+head Finn.txt | cat -n
+tail Finn.txt | cat -n
+head Finn.txt | cat -n
+tail Finn.txt | cat -n
+cat -n Finn.txt | tail 
+head -n 23 Finn.txt | cat -n
+cat -n Finn.txt | tail 
+cat -n Finn.txt | tail -n 30 
+cat -n Finn.txt | tail -n 3
+cat -n Finn.txt | tail -n -3
+cat -n Finn.txt | tail -n -5
+cd 
+cd Data/us_dot/otp
+ls
+ls -s
+ls -S
+ls -S | cat -n 3
+ll -S | cat -n 3
+ll -S 
+ll -S | cat -n 3 > size.txt
+ll -S | head -n 3 > size.txt
+cat size.txt
+ll -S | head -n 4 > size.txt
+cat size.txt
+history | tail -n 20 >> command.txt
+cat command.txt
+cd 
+ls
+cd Data
+cd shell
+ls
+head -n 3 Text_example.txt
+tail -n -3 Text_example.txt
+cat Text_example.txt
+ls
+ls -l
+history
+echo "esto es el path: $PATH"
+echo 'esto es el path: $PATH'
+echo `data´
+echo `date´\
+\
+;\
+\
+\
+\
+
+clear
+echo "texto $(ls)"
+find
+find tex
+cd /
+find
+cd 
+find
+find . -name
+find . -name "text_file*"
+find . -name "text_file*" -type d
+find . -name "text_file*" -type f
+find . -iname "Text_file*" -type f
+find . -name "Text_file*" -type f
+find first_dir -name "Text_file*" -type f
+find first_dir -name "ext_file*" -type f
+find first_dir -name "text_file*" -type f
+find first_dir -maxdepht 7 -name "text_file*" -type f
+find first_dir -maxdepth 7 -name "text_file*" -type f
+find first_dir -maxdepth 3 -name "text_file*" -type f
+find first_dir -maxdepth 2 -name "text_file*" -type f
+find first_dir -maxdepth 1 -name "text_file*" -type f
+find first_dir -size 1M -name "text_file*" -type f
+find first_dir -size 1K -name "text_file*" -type f
+find first_dir -size 1k -name "text_file*" -type f
+find first_dir -size +1k -name "text_file*" -type f
+find first_dir -size -1k -name "text_file*" -type f
+find -mmin -60
+find -maxdepth 5 -type f -name "text_file*" -exec head {} +;
+ll -a
+cat .history
+cp .history bash_history
